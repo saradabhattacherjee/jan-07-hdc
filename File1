@@ -1,0 +1,15 @@
+
+
+Tool colaboration, tool orchestration
+CI <---> CD
+intergrate all tools for continuous
+Automation - major advantage od tools
+Automation thru tool colaboration is Devops to achieve CI and CD.
+SCM - S/w configuration management
+Tools --> 1. Centralised
+          2. Distributed
+
+GIT
+1. C language
+2. follows concept of Indexing
+3. Sha-1 Algorithmic technique- 40 bit alphanumeric indexing value 0-9a-f, uses checksum principle
